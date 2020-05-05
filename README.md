@@ -2,7 +2,7 @@
 This test is to Verify the LoginValidation using XCUIT 
 
 -------------------------------------------------------
-Imported Sample Project.
+Imported Sample Project from "Copyright (c) 2018 Code Pro"
 
 Created UI Test Target file.
 
