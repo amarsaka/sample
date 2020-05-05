@@ -1,5 +1,5 @@
 -------------------------------------------------------
-This test is to Verify the LoginValidation using XCUIT 
+This test is to Verify the LoginValidation using XCUITest
 
 -------------------------------------------------------
 Imported Sample Project from "Copyright (c) 2018 Code Pro"
